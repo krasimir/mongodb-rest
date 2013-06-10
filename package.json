@@ -13,7 +13,7 @@
     "test": "vows ./tests/*.js"
   },
   "engines": {
-    "node": ">= v0.4.9"
+    "node": "v0.4.9"
   },
   "dependencies": { 
     "express": "2.4.7", 
