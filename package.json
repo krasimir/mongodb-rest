@@ -5,7 +5,7 @@
   "version": "2.0.14",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ActiveUnits/mongodb-rest.git"
+    "url": "git://github.com/krasimir/mongodb-rest.git"
   },
   "bin": { "mongodb-rest2": "./bin/mongodb-rest2" },
   "main": "app.js",
